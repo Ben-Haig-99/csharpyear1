@@ -1,0 +1,7 @@
+B:\yay\csharp\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+B:\yay\csharp\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+B:\yay\csharp\Assignment\Assignment\bin\Debug\Assignment.exe.config
+B:\yay\csharp\Assignment\Assignment\bin\Debug\Assignment.exe
+B:\yay\csharp\Assignment\Assignment\bin\Debug\Assignment.pdb
+B:\yay\csharp\Assignment\Assignment\obj\Debug\Assignment.exe
+B:\yay\csharp\Assignment\Assignment\obj\Debug\Assignment.pdb
